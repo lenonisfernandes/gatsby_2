@@ -9,6 +9,7 @@
 }
 
 .nav-links {
+    background-color: aquamarine;
     display: flex;
     list-style: none;
     padding-left: 0;
